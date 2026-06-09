@@ -1,0 +1,6 @@
+TechniqueID,Tactic,Technique,Severity
+T1566,Initial Access,Phishing,High
+T1059.001,Execution,PowerShell,High
+T1003,Credential Access,OS Credential Dumping,Critical
+T1078,Defense Evasion,Valid Accounts,High
+T1021,Lateral Movement,Remote Services,Critical

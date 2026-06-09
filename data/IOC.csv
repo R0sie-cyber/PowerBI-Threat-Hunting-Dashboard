@@ -1,0 +1,14 @@
+IOCType,Value,Category,Severity
+User,JDOE,Account,High
+Host,WS-045,Endpoint,High
+Host,SRV-FILE-01,Server,Critical
+Host,SRV-APP-01,Server,Critical
+IP,10.0.1.5,Internal IP,High
+IP,10.0.2.8,Internal IP,High
+Process,powershell.exe,Execution,High
+Process,cmd.exe,Execution,Medium
+Process,net.exe,Discovery,Medium
+Process,psexec.exe,Lateral Movement,Critical
+Process,lsass.exe,Credential Access,Critical
+Protocol,SMB,Lateral Movement,High
+Protocol,RDP,Lateral Movement,Critical
